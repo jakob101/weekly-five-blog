@@ -1,0 +1,26 @@
+.subscribe-form {
+  background-color: var(--topbar-wrapper-bg);
+  padding: 2rem 1rem;
+}
+
+.subscribe-input {
+  background: var(--search-wrapper-bg);
+  border: 0;
+  color: var(--text-color);
+  box-shadow: none;
+  border-radius: 1rem;
+  padding: 0.18rem 1rem;
+
+  &:focus {
+    background: var(--search-wrapper-bg);
+    color: var(--text-color);
+  }
+}
+
+.subscribe-button {
+  background: var(--search-wrapper-bg);
+  color: rgb(106, 115, 123);
+  margin-top: 1rem;
+  border-radius: 2rem;
+  padding: 0.18rem 1rem;
+}

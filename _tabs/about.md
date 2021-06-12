@@ -11,3 +11,5 @@ I started publishing Weekly Five articles because reading, improving and growing
 Archives have some content before I went public, and I don't have any Weekly Five posts before the 8th one. Those are forever forgotten.
 
 If you want to get these in your inbox every week, please subscribe here:
+
+{% include subscribe.html %}
